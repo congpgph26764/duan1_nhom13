@@ -8,7 +8,8 @@
         android:layout_height="wrap_content"/>
 
 
-<!--    TUANNDA6 TINH NANG 2-->
+<!--    TINH NANG 1 TUANNDA5-->
+
     <EditText
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"/>
